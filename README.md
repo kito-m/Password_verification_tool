@@ -1,4 +1,4 @@
-# password_requirements_tool
+# Password_verification_tool
 
 A tool for verifying the strength of passwords.
 
