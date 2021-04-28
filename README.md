@@ -70,7 +70,7 @@ $ python test_validate_password.py
 
 ## Example
 
-![ Alt text](passChecker. gif) / ! [](passChecker. gif)
+![ Alt text](passChecker.gif) / ! [](passChecker.gif)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
