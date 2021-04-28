@@ -17,7 +17,7 @@ mocha@8.3.2
 
 
 ```bash
-$ git clone https://github.com/kito-m/password_requirements_tool.git
+$ git clone https://github.com/kito-m/Password_verification_tool.git
 $ npm init -y
 ```
 * Open package.json and change value of scripts['test']
