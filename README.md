@@ -18,12 +18,8 @@ mocha@8.3.2
 
 ```bash
 $ git clone https://github.com/kito-m/Password_verification_tool.git
+$ cd Password_verification_tool
 $ npm init -y
-```
-* Open package.json and change value of scripts['test']
-to "mocha --recursive --exit"
-
-```
 $ npm install mocha --save-dev
 ```
 
@@ -60,9 +56,11 @@ Checker.RunCheck("password123", "admin")
 
 ```
 ## Testing
+###Javascript
 ```
 $ npm run test
 ```
+###Python
 ```
 $ cd python_check
 $ python test_validate_password.py
@@ -70,7 +68,12 @@ $ python test_validate_password.py
 
 ## Example
 
-![ Alt text](passChecker.gif) / ! [](passChecker.gif)
+```
+cd example 
+google-chrome index.html
+```
+
+![ Alt text](passCheck.gif) / ! [](passCheck.gif)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
