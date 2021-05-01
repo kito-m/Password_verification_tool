@@ -56,11 +56,11 @@ Checker.RunCheck("password123", "admin")
 
 ```
 ## Testing
-###Javascript
+### Javascript
 ```
 $ npm run test
 ```
-###Python
+### Python
 ```
 $ cd python_check
 $ python test_validate_password.py
@@ -73,7 +73,7 @@ cd example
 google-chrome index.html
 ```
 
-![ Alt text](passCheck.gif) / ! [](passCheck.gif)
+![ Alt text](passCheck.gif) [](passCheck.gif)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
